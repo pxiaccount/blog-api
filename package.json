@@ -4,7 +4,7 @@
   "description": "Blog API using Express.js ♡",
   "main": "app.js",
   "scripts": {
-	  "dev": "node app.js"
+    "dev": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/pxiaccount/blog-api#readme",
   "devDependencies": {
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mysql": "^2.18.1"
   }
