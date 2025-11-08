@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Blog API using Express.js ♡",
+  "main": "app.js",
+  "scripts": {
+	  "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxiaccount/blog-api.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/pxiaccount/blog-api/issues"
+  },
+  "homepage": "https://github.com/pxiaccount/blog-api#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
